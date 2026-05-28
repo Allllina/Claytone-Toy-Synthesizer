@@ -1,0 +1,6 @@
+{
+  "name": "Claytone",
+  "description": "A minimalist, cozy clay-toy style interactive synthesizer featuring soft terracotta, lilac, and indigo tones, tactile sound keys, and smooth peg doll interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
